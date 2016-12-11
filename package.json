@@ -1,0 +1,25 @@
+{
+  "name": "peerbuds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suryajeet/peerbuds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suryajeet/peerbuds/issues"
+  },
+  "homepage": "https://github.com/Suryajeet/peerbuds#readme",
+  "dependencies": {
+    "database-xml-to-html": "^0.1.7",
+    "express": "^4.14.0",
+    "xml-parse-from-string": "^1.0.0",
+    "xml2js": "^0.4.17"
+  }
+}
